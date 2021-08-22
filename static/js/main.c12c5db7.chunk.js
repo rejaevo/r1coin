@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[0],{8:function(n,t,e){},9:function(n,t,e){"use strict";e.r(t),e.d(t,"ExportMe",(function(){return r}));e(1),e(4),e(8);var o=e(0),p=e.n(o);function r(){p.a.send("VKWebAppInit",{}),p.a.send("VKWebAppShowNativeAds",{ad_format:"reward"}).then((function(n){return console.log(n.result)})).catch((function(n){return console.log(n)}))}}},[[9,1,2]]]);
-//# sourceMappingURL=main.c12c5db7.chunk.js.map
