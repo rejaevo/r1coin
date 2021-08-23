@@ -1,5 +1,5 @@
 
-import bridge from '@vkontakte/vk-bridge';
+import * as bridge from '/@vkontakte/vk-bridge';
 var clicks = 0; // change int to var here
 function exportw() {
 
