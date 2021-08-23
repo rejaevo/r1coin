@@ -1,5 +1,5 @@
 
-import * as bridge from '/vk-bridge';
+import * as bridge from 'r1coin/vk-bridge';
 var clicks = 0; // change int to var here
 function exportw() {
 
