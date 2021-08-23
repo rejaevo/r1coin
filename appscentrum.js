@@ -1,7 +1,4 @@
 
-import './index.css';
-
-import reportWebVitals from './reportWebVitals';
 import bridge from '@vkontakte/vk-bridge';
 var clicks = 0; // change int to var here
 function exportw() {
